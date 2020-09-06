@@ -58,4 +58,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [gmail]: https://gmail.com/?s=09
 [instagram]: https://www.instagram.com/s_i_d_d_h_a_r_t_h___s_i_d/?hl=en
-[linkedin]: https://www.https://www.linkedin.com/in/siddharth-singh-6874891a7/
+[linkedin]: https://www.linkedin.com/in/siddharth-singh-6874891a7/
