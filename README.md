@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=siddharth1806&style=flat-square)
 
 
-- 🔭 I'm currently learning Salesforce , IOT(ARDUINO) and MERN Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I'm currently learning Salesforce and MERN Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🥅 2020 Goals: Become a Professional Web Developer.
 - ⚡ Fun fact: I can spend an entire day in watching movies or series
 
